@@ -16,6 +16,7 @@ List of games tested.
 
 | Game Title | Playability Status | Avg. FPS | Tested Emulator(s) | Contributor(s) |
 | :--- | :---: | :---: | :---: | :--- |
+| **[MOTO GP 2020](games/moto-gp-2020/settings.md)** | ![In-Game](https://img.shields.io/badge/In--Game-FFC107?style=for-the-badge) | `60 (menu)` | `GameHub 4.1.5` | `@abhay-byte` |
 
 ## Boots
 
@@ -36,7 +37,6 @@ List of games tested.
 
 | Game Title |
 | :--- |
-| Moto GP 2020 |
 | Assassin's Creed Unity |
 | Fallout 3 |
 | Burnout Paradise |
