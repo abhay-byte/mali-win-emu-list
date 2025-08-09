@@ -4,7 +4,7 @@
 
 *   **Game Title:** MOTO GP 2020
 *   **Game Source:** Steam
-*   **Playability Status:** In-Game
+*   **Playability Status:** ![In-Game](https://img.shields.io/badge/In--Game-FFC107?style=for-the-badge) 
 
 ---
 
