@@ -10,7 +10,7 @@ List of games tested.
 | **[Euro Truck Simulator - 2](games/euro-truck-simulator-2/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `30-50+` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[GTA IV](games/gta-iv/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `40+` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[GTA V](games/gta-v/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `30-50+` | `GameHub 4.1.5` | `@abhay-byte` |
-| **[TES V - Skyrim](games/tes-v-skyrim/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `30+` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[TES V - Skyrim](games/tes-v-skyrim/settings.md)** |  ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `30+` | `GameHub 4.1.5` | `@abhay-byte` |
 
 ## In-Game
 
@@ -30,8 +30,17 @@ List of games tested.
 | **[Assassin's Creed IV: Black Flag](games/assassins-creed-iv-black-flag/settings.md)** |  ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[NFS Hot Pursuit](games/nfs-hot-pursuit/settings.md)** |  ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[NFS Most Wanter 2012](games/nfs-most-wanted-2012/settings.md)** | ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
-| **[Pro Evolution Soccer 2017](games/pro-evolution-soccer-2017/settings.md)** | ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Pro Evolution Soccer 2017](games/pro-evolution-soccer-2017/settings.md)** |  ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
 
+## Requested Games to Test
+
+| Game Title |
+| :--- |
+| Moto GP 2020 |
+| Assassin's Creed Unity |
+| Fallout 3 |
+| Burnout Paradise |
+| Fallout New Vegas |
 
 #### **Status Legend:**
 
@@ -48,7 +57,7 @@ If this project helps you, please consider giving it a ⭐ star!
 
 [![GitHub Stars](https://img.shields.io/github/stars/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/network/members)
-[![GitHub Watchers](https://img.shields.io/github/watchers/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/watchers)
+[![GitHub Watchers](https.img.shields.io/github/watchers/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/watchers)
 
 *   **Total Games Tested:** 10
 *   **Playable Games:** 5
