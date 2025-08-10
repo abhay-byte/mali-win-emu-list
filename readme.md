@@ -41,6 +41,13 @@ List of games tested.
 | Fallout 3 |
 | Burnout Paradise |
 | Fallout New Vegas |
+| Witcher 2 |
+| Pillars of Eternity |
+| Divinity: Original Sin 2 - Definitive Edition |
+| MotoGP 17 |
+| FIFA 17 |
+| WWE 2K17 |
+| Disney Infinity 3.0 |
 
 #### **Status Legend:**
 
