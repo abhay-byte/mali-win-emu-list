@@ -14,6 +14,7 @@ List of games tested.
 | **[The Witcher 2: Assassins of Kings](games/the-witcher-2-assassins-of-kings/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `15` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[Dragon Age: Origins](games/dragon-age-origins/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `30-60` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[Fallout New Vegas](games/fallout-new-vegas/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `15` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Fallout 3](games/fallout-3/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `60` | `GameHub 4.1.5` | `@abhay-byte` |
 
 ## In-Game
 
@@ -41,7 +42,7 @@ List of games tested.
 | Game Title |
 | :--- |
 | Assassin's Creed Unity |
-| Fallout 3 |
+
 | Burnout Paradise |
 
 
@@ -69,8 +70,8 @@ If this project helps you, please consider giving it a ⭐ star!
 [![GitHub Forks](https://img.shields.io/github/forks/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/network/members)
 [![GitHub Watchers](https.img.shields.io/github/watchers/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/watchers)
 
-*   **Total Games Tested:** 13
-*   **Playable Games:** 8
+*   **Total Games Tested:** 14
+*   **Playable Games:** 9
 *   **In-Game Games:** 0
 *   **Boots Games:** 1
 *   **Unplayable Games:** 4
