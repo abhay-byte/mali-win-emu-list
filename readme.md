@@ -49,6 +49,14 @@ List of games tested.
 | FIFA 17 |
 | WWE 2K17 |
 | Disney Infinity 3.0 |
+| [Jump force](games/jump-force/settings.md) |
+| [Dragon Ball z kakarot](games/dragon-ball-z-kakarot/settings.md) |
+| [Sleeping dogs](games/sleeping-dogs/settings.md) |
+| [Watch dogs](games/watch-dogs/settings.md) |
+| [Dragon Ball sparking zero](games/dragon-ball-sparking-zero/settings.md) |
+| [The Witcher](games/the-witcher/settings.md) |
+| [Fable 3](games/fable-3/settings.md) |
+| [Test Drive 2](games/test-drive-2/settings.md) |
 
 #### **Status Legend:**
 
@@ -67,9 +75,9 @@ If this project helps you, please consider giving it a ⭐ star!
 [![GitHub Forks](https://img.shields.io/github/forks/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/network/members)
 [![GitHub Watchers](https.img.shields.io/github/watchers/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/watchers)
 
-*   **Total Games Tested:** 16
+*   **Total Games Tested:** 24
 *   **Playable Games:** 9
-*   **In-Game Games:** 0
+*   **In-Game Games:** 1
 *   **Boots Games:** 1
 *   **Unplayable Games:** 6
 
