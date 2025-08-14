@@ -36,18 +36,16 @@ List of games tested.
 | **[NFS Hot Pursuit](games/nfs-hot-pursuit/settings.md)** |  ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[NFS Most Wanter 2012](games/nfs-most-wanted-2012/settings.md)** | ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[Pro Evolution Soccer 2017](games/pro-evolution-soccer-2017/settings.md)** |  ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Assassin's Creed Unity](games/assassins-creed-unity/settings.md)** |  ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Divinity: Original Sin 2 - Definitive Edition](games/divinity-original-sin-2-definitive-edition/settings.md)** | ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
 
 ## Requested Games to Test
 
 | Game Title |
 | :--- |
 | Assassin's Creed Unity |
-
 | Burnout Paradise |
-
-
 | Pillars of Eternity |
-| Divinity: Original Sin 2 - Definitive Edition |
 | MotoGP 17 |
 | FIFA 17 |
 | WWE 2K17 |
@@ -70,11 +68,11 @@ If this project helps you, please consider giving it a ⭐ star!
 [![GitHub Forks](https://img.shields.io/github/forks/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/network/members)
 [![GitHub Watchers](https.img.shields.io/github/watchers/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/watchers)
 
-*   **Total Games Tested:** 14
+*   **Total Games Tested:** 16
 *   **Playable Games:** 9
 *   **In-Game Games:** 0
 *   **Boots Games:** 1
-*   **Unplayable Games:** 4
+*   **Unplayable Games:** 6
 
 ***
 
