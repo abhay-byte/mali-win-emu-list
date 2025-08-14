@@ -43,7 +43,6 @@ List of games tested.
 
 | Game Title |
 | :--- |
-| Assassin's Creed Unity |
 | Burnout Paradise |
 | Pillars of Eternity |
 | MotoGP 17 |
