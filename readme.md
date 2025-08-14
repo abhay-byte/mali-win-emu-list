@@ -11,6 +11,7 @@ List of games tested.
 | **[GTA IV](games/gta-iv/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `40+` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[GTA V](games/gta-v/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `30-50+` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[TES V - Skyrim](games/tes-v-skyrim/settings.md)** |  ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `30+` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[The Witcher 2: Assassins of Kings](games/the-witcher-2-assassins-of-kings/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `15` | `GameHub 4.1.5` | `@abhay-byte` |
 
 ## In-Game
 
@@ -41,7 +42,7 @@ List of games tested.
 | Fallout 3 |
 | Burnout Paradise |
 | Fallout New Vegas |
-| Witcher 2 |
+
 | Pillars of Eternity |
 | Divinity: Original Sin 2 - Definitive Edition |
 | MotoGP 17 |
@@ -66,8 +67,8 @@ If this project helps you, please consider giving it a ⭐ star!
 [![GitHub Forks](https://img.shields.io/github/forks/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/network/members)
 [![GitHub Watchers](https.img.shields.io/github/watchers/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/watchers)
 
-*   **Total Games Tested:** 10
-*   **Playable Games:** 5
+*   **Total Games Tested:** 11
+*   **Playable Games:** 6
 *   **In-Game Games:** 0
 *   **Boots Games:** 1
 *   **Unplayable Games:** 4
