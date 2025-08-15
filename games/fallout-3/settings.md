@@ -20,7 +20,9 @@
 **In-Game Settings**:
 Low settings
 
-**YouTube Gameplay**: [![Fallout 3 Gameplay](https://img.youtube.com/vi/wMMd0STTzeY/0.jpg)](https://www.youtube.com/watch?v=wMMd0STTzeY)
+## YouTube Gameplay: 
+
+[![Fallout 3 Gameplay](https://img.youtube.com/vi/wMMd0STTzeY/0.jpg)](https://www.youtube.com/watch?v=wMMd0STTzeY)
 
 **Other Settings**:
 None.
