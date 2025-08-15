@@ -57,6 +57,9 @@ List of games tested.
 | [The Witcher](games/the-witcher/settings.md) |
 | [Fable 3](games/fable-3/settings.md) |
 | [Test Drive 2](games/test-drive-2/settings.md) |
+| Dragon Age Inquisition |
+| Until Then |
+| Hello Neighbor |
 
 #### **Status Legend:**
 
