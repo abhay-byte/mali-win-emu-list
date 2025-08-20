@@ -1,22 +1,22 @@
-# Sleeping Dogs - Game Settings
+# Until Then - Game Settings
 
 ## Game Information
 
-*   **Game Title:** Sleeping Dogs
+*   **Game Title:** Until Then
 *   **Game Version:** N/A
-*   **Game Source:** GOG
+*   **Game Source:** Steam
 *   **Playability Status:** ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge)
 
 ---
 
 ## Device & Software Information
 
-*   **Device Model:** POCO X6 Pro
+*   **Device Model:** POCO X6 Pro (custom-rom)
 *   **SoC (Chipset):** Dimensity 8300
 *   **Android Version:** 15
 *   **Emulator:** GameHub
 *   **Emulator Version:** 4.1.5
-*   **Container/Wine Version:** Proton 9.0
+*   **Container/Wine Version:** Wine 9.13
 *   **Graphics Driver:** System Drivers
 *   **Driver Version:** 44.1.0
 
@@ -25,17 +25,17 @@
 ## Emulator Settings
 
 
-![Emulator Settings](../../settings/s1-sleeping-dogs.jpg)
+![Emulator Settings](../../settings/s1-untill-then.jpg)
 
 ---
 
 ## In-Game Settings
 
-*   **Graphics Quality:** Medium Settings
+*   **Graphics Quality:** Low Settings
 *   **Resolution:** 1280x720p
 *   **Other Notes:** None.
 
-![In-Game Settings](../../settings/g1-sleeping-dogs.jpg)
+![In-Game Settings](../../settings/g1-untill-then.jpg)
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## Gameplay Video
 
- [!["Sleeping Dogs Gameplay"](https://img.youtube.com/vi/lJWshMFscb4/0.jpg)](https://www.youtube.com/watch?v=lJWshMFscb)
+[![Until Then Gameplay](https://img.youtube.com/vi/gb7B_4jNvog/0.jpg)](https://www.youtube.com/watch?v=gb7B_4jNvog)
 
 ---
 

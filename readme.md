@@ -15,12 +15,17 @@ List of games tested.
 | **[Dragon Age: Origins](games/dragon-age-origins/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `30-60` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[Fallout New Vegas](games/fallout-new-vegas/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `15` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[Fallout 3](games/fallout-3/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `60` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Sleeping Dogs](games/sleeping-dogs/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `30` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Dead Space](games/dead-space/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `60+` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Hello Neighbor](games/hello-neighbor/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `50` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Until Then](games/until-then/settings.md)** | ![Playable](https://img.shields.io/badge/Playable-4CAF50?style=for-the-badge) | `30` | `GameHub 4.1.5` | `@abhay-byte` |
 
 ## In-Game
 
 | Game Title | Playability Status | Avg. FPS | Tested Emulator(s) | Contributor(s) |
 | :--- | :---: | :---: | :---: | :--- |
 | **[MOTO GP 2020](games/moto-gp-2020/settings.md)** | ![In-Game](https://img.shields.io/badge/In--Game-FFC107?style=for-the-badge) | `60 (menu)` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Devil May Cry 4: Special Edition](games/devil-may-cry-4-special-edition/settings.md)** | ![In-Game](https://img.shields.io/badge/In--Game-FFC107?style=for-the-badge) | `30` | `GameHub 4.1.5` | `@abhay-byte` |
 
 ## Boots
 
@@ -38,6 +43,7 @@ List of games tested.
 | **[Pro Evolution Soccer 2017](games/pro-evolution-soccer-2017/settings.md)** |  ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[Assassin's Creed Unity](games/assassins-creed-unity/settings.md)** |  ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[Divinity: Original Sin 2 - Definitive Edition](games/divinity-original-sin-2-definitive-edition/settings.md)** | ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[The Witcher](games/the-witcher/settings.md)** | ![Unplayable](https://img.shields.io/badge/Unplayable-F44336?style=for-the-badge) | `N/A` | `GameHub 4.1.5` | `@abhay-byte` |
 
 ## Requested Games to Test
 
@@ -51,15 +57,11 @@ List of games tested.
 | Disney Infinity 3.0 |
 | [Jump force](games/jump-force/settings.md) |
 | [Dragon Ball z kakarot](games/dragon-ball-z-kakarot/settings.md) |
-| [Sleeping dogs](games/sleeping-dogs/settings.md) |
 | [Watch dogs](games/watch-dogs/settings.md) |
 | [Dragon Ball sparking zero](games/dragon-ball-sparking-zero/settings.md) |
-| [The Witcher](games/the-witcher/settings.md) |
 | [Fable 3](games/fable-3/settings.md) |
 | [Test Drive 2](games/test-drive-2/settings.md) |
 | Dragon Age Inquisition |
-| Until Then |
-| Hello Neighbor |
 
 #### **Status Legend:**
 
@@ -78,11 +80,11 @@ If this project helps you, please consider giving it a ⭐ star!
 [![GitHub Forks](https://img.shields.io/github/forks/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/network/members)
 [![GitHub Watchers](https.img.shields.io/github/watchers/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/watchers)
 
-*   **Total Games Tested:** 24
-*   **Playable Games:** 9
-*   **In-Game Games:** 1
+*   **Total Games Tested:** 29
+*   **Playable Games:** 13
+*   **In-Game Games:** 2
 *   **Boots Games:** 1
-*   **Unplayable Games:** 6
+*   **Unplayable Games:** 7
 
 ***
 
