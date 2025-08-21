@@ -57,11 +57,17 @@ List of games tested.
 | Disney Infinity 3.0 |
 | [Jump force](games/jump-force/settings.md) |
 | [Dragon Ball z kakarot](games/dragon-ball-z-kakarot/settings.md) |
-| [Watch dogs](games/watch-dogs/settings.md) |
 | [Dragon Ball sparking zero](games/dragon-ball-sparking-zero/settings.md) |
 | [Fable 3](games/fable-3/settings.md) |
 | [Test Drive 2](games/test-drive-2/settings.md) |
 | Dragon Age Inquisition |
+| DMC 2013 |
+| Monster Hunter Rise |
+| Resident Evil 4 Remake |
+| A Plague Tale |
+| A Space for the Unbound |
+| Dragon Ball Xenoverse 2  |
+
 
 #### **Status Legend:**
 
