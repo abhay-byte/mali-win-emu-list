@@ -67,7 +67,7 @@ List of games tested.
 | A Plague Tale |
 | A Space for the Unbound |
 | Dragon Ball Xenoverse 2  |
-
+| DMC 5  |
 
 #### **Status Legend:**
 
