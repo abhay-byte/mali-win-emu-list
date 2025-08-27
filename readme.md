@@ -31,7 +31,8 @@ List of games tested.
 
 | Game Title | Playability Status | Avg. FPS | Tested Emulator(s) | Contributor(s) |
 | :--- | :---: | :---: | :---: | :--- |
-| **[Fallout 4](games/fallout-4/settings.md)** | ![Boots](https://img.shields.io/badge/Boots-2196F3?style=for-the-badge) | `0` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Fallout 4](games/fallout-4/settings.md)** | ![Boots](https://img.shields.io/badge/Boots-2196F3?style=for-the-badge) | `60` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[The Witcher 3](games/the-witcher/settings.md)** | ![Boots](https://img.shields.io/badge/Boots-2196F3?style=for-the-badge) | `60` | `GameHub 4.1.5` | `@abhay-byte` |
 
 ## Unplayable
 
