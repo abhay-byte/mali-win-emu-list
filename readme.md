@@ -33,6 +33,8 @@ List of games tested.
 | :--- | :---: | :---: | :---: | :--- |
 | **[Fallout 4](games/fallout-4/settings.md)** | ![Boots](https://img.shields.io/badge/Boots-2196F3?style=for-the-badge) | `60` | `GameHub 4.1.5` | `@abhay-byte` |
 | **[The Witcher 3](games/the-witcher/settings.md)** | ![Boots](https://img.shields.io/badge/Boots-2196F3?style=for-the-badge) | `60` | `GameHub 4.1.5` | `@abhay-byte` |
+| **[Dragon Ball sparking zero](games/dragon-ball-sparking-zero/settings.md)** | ![Boots](https://img.shields.io/badge/Boots-2196F3?style=for-the-badge) | `60` | `GameHub 4.1.5` | `@abhay-byte` |
+
 
 ## Unplayable
 
@@ -58,7 +60,6 @@ List of games tested.
 | Disney Infinity 3.0 |
 | [Jump force](games/jump-force/settings.md) |
 | [Dragon Ball z kakarot](games/dragon-ball-z-kakarot/settings.md) |
-| [Dragon Ball sparking zero](games/dragon-ball-sparking-zero/settings.md) |
 | [Fable 3](games/fable-3/settings.md) |
 | [Test Drive 2](games/test-drive-2/settings.md) |
 | Dragon Age Inquisition |
@@ -123,7 +124,3 @@ We welcome and appreciate all contributions! To keep things organized and user-f
 That's it! A maintainer will review your submission, create the necessary files, and add it to the main compatibility list. Thank you for helping the community!
 
 ***
-
-## Disclaimer
-
-This project is for educational and research purposes only. The information provided is user-submitted and is not guaranteed to work on your device. Please support game developers by purchasing the games you play. This repository does not provide any game files or software for emulation.
