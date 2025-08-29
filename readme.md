@@ -84,9 +84,6 @@ List of games tested.
 
 If this project helps you, please consider giving it a ⭐ star!
 
-[![GitHub Stars](https://img.shields.io/github/stars/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/network/members)
-[![GitHub Watchers](https.img.shields.io/github/watchers/abhay-byte/mali-win-emu-list?style=social)](https://github.com/abhay-byte/mali-win-emu-list/watchers)
 
 *   **Total Games Tested:** 29
 *   **Playable Games:** 13
